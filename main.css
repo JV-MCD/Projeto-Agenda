@@ -6,9 +6,10 @@
 }
 
 header{
-    display: flex;
+    display: block;
     align-items: center;
     margin-bottom: 16px;
+    text-align: center;
 }
 
 body{
