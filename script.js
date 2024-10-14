@@ -6,7 +6,6 @@ const Numero = [];
 form.addEventListener('submit',function(e){
     e.preventDefault();
 
-confereNumero();
 adicionaLinha();
 atualizaNumero();
 
